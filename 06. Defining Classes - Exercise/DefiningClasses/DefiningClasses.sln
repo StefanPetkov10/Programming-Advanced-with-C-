@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefiningClasses", "DefiningClasses\DefiningClasses.csproj", "{EA548966-3EB1-47B6-AB4F-88F5239D7DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateModifier", "DateModifier\DateModifier.csproj", "{1D8AA756-7460-4F0E-B488-F68496089375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawData", "RawData\RawData.csproj", "{9A5B4F57-2923-44F8-8A1C-52FB29A18823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonTrainer", "PokemonTrainer\PokemonTrainer.csproj", "{3AB4C0D3-0C65-493A-81DE-2A81B96FF73C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA548966-3EB1-47B6-AB4F-88F5239D7DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA548966-3EB1-47B6-AB4F-88F5239D7DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA548966-3EB1-47B6-AB4F-88F5239D7DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA548966-3EB1-47B6-AB4F-88F5239D7DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D8AA756-7460-4F0E-B488-F68496089375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D8AA756-7460-4F0E-B488-F68496089375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D8AA756-7460-4F0E-B488-F68496089375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D8AA756-7460-4F0E-B488-F68496089375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A5B4F57-2923-44F8-8A1C-52FB29A18823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5B4F57-2923-44F8-8A1C-52FB29A18823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5B4F57-2923-44F8-8A1C-52FB29A18823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5B4F57-2923-44F8-8A1C-52FB29A18823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AB4C0D3-0C65-493A-81DE-2A81B96FF73C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB4C0D3-0C65-493A-81DE-2A81B96FF73C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB4C0D3-0C65-493A-81DE-2A81B96FF73C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB4C0D3-0C65-493A-81DE-2A81B96FF73C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA27E8C7-EBAF-4C6E-9155-5768AC60FC8C}
+	EndGlobalSection
+EndGlobal
